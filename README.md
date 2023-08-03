@@ -1,5 +1,5 @@
-![lLfM33a - Imgur](https://github.com/RavanHash/RavanHash/assets/115817218/291afe83-9895-4352-9d1c-77086302e4e5)
 
+![81bb4b165684019 640b6038d133e](https://github.com/RavanHash/RavanHash/assets/115817218/8c3fcaae-5e0c-4717-89ce-6b6cfa7de144)
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
