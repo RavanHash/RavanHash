@@ -1,5 +1,4 @@
-
-![astronaut](https://github.com/RavanHash/RavanHash/assets/115817218/ab71fba7-753f-487a-a1cb-c5211ad26ef8)
+![f3365d136247327 6468929564a3d](https://github.com/RavanHash/RavanHash/assets/115817218/644060eb-049d-4b91-85ad-168578485c1c)
 
 
 
